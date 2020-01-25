@@ -1,5 +1,5 @@
 # fork-pipe 
-##written in c language
+**written in c language**
 
 -this program provides communication with two chil from a parent with a pipe formed between them.
 this pipe is bidirectional and waits for each other for mutual communication. 
